@@ -17,3 +17,7 @@ void Print(string [] Array){
     }
     Console.WriteLine();
 }
+string [] array = {"hello", "2", "world", ":-)"};
+
+methodArray(array);
+Print(array);
